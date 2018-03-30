@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+keybase is fun!
+-----BEGIN PGP SIGNATURE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+wsBcBAABCgAGBQJaJtRyAAoJEGnJ5Wt+lYeyjTIH/13v97tzANkiSM3i+Vbr9Q8g
+isis5gh3+4slL2SgsiF0YvnUH5o2hycYArm6r05DLdPZ2rja1YEzB1K0IV2EoAad
+gLThXdVk0U2+9vcYCrlSDzncMXY2GsY0uIjlk9T7hx0xoSWK4T9FgL0A7/z4qU8A
+4+W0Epf3wcq89dvtaenYZwy7XpoU1TSn+BfwOVO2pJx51osULn7XdARBHV3UtGqD
+wZpXpxzs4P5pjqML35Ag7Fq/Hv9VBD4KBkdmXDZmt/f2+mqfKGr1f0dR8j6vK+/4
+1o2aHzKuMdxJOAXQ2R6675zUa77mFjliWXP5fZ2ZtOrYBexZ5k9cRo2y9Sd2cw0=
+=2iVf
+-----END PGP SIGNATURE-----

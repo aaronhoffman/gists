@@ -1,0 +1,5 @@
+
+# note: on my macbook, for 10MM uris, this took just over 30 hours to complete
+
+cat hn-uri.txt | xargs -P 100 -n 100 wget --quiet
+
